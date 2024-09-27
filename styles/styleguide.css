@@ -1,0 +1,28 @@
+:root {
+  --rosa: rgba(247, 70, 161, 1);
+  --bl: rgba(18, 168, 244, 1);
+  --tabs-tekst-font-family: "Inter", Helvetica;
+  --tabs-tekst-font-weight: 400;
+  --tabs-tekst-font-size: 24px;
+  --tabs-tekst-letter-spacing: 0px;
+  --tabs-tekst-line-height: normal;
+  --tabs-tekst-font-style: normal;
+  --login-tekst-font-family: "Inter", Helvetica;
+  --login-tekst-font-weight: 400;
+  --login-tekst-font-size: 24px;
+  --login-tekst-letter-spacing: 0px;
+  --login-tekst-line-height: normal;
+  --login-tekst-font-style: normal;
+  --titel-tekst-font-family: "Inter", Helvetica;
+  --titel-tekst-font-weight: 600;
+  --titel-tekst-font-size: 64px;
+  --titel-tekst-letter-spacing: 0px;
+  --titel-tekst-line-height: normal;
+  --titel-tekst-font-style: italic;
+  --informasjons-tekst-font-family: "Inter", Helvetica;
+  --informasjons-tekst-font-weight: 300;
+  --informasjons-tekst-font-size: 16px;
+  --informasjons-tekst-letter-spacing: 0px;
+  --informasjons-tekst-line-height: normal;
+  --informasjons-tekst-font-style: italic;
+}
